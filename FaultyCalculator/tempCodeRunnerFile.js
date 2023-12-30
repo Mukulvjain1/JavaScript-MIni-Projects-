@@ -1,0 +1,2 @@
+NumberGenetaror();
+// // console.log(a);
