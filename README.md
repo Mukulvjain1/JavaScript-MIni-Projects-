@@ -1,2 +1,2 @@
-## This are Baic Level mini Projects that are helped me learn Js Concepts 
+## This are Basic Level mini Projects that are helped me learn Js Concepts 
 
