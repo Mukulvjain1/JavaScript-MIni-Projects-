@@ -1,1 +1,2 @@
-This are mini Projects that are made to learn Js Concepts 
+## This are Baic Level mini Projects that are helped me learn Js Concepts 
+
